@@ -94,13 +94,13 @@
 	.header .header__list {
 		margin-right: 0;
 		z-index: 2;
-		background: #1c0544;
+		background: #0d1527;
 		justify-content: center;
 		align-items: center;
 		border-radius: 14px;
 		width: 100%;
 		padding: 0.8rem 1rem;
-		border: 1px solid #dc5898;
+		border: 1px solid #32cfad;
 		align-self: center;
 		opacity: 0;
 		pointer-events: none;
