@@ -1,0 +1,35 @@
+  
+  .clients__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 3rem; /* Espacio adicional en la parte inferior */
+  }
+  
+  .clients__carousel {
+    display: flex;
+    justify-content: center; /* Centra el carrusel horizontalmente */
+    overflow: hidden;
+    gap: 2rem;
+    padding: 1rem 0;
+    position: relative;
+  }
+  
+  .client__logo {
+    cursor: pointer;
+    flex: 0 0 auto;
+    width: 150px;
+    transition: transform 0.3s;
+  }
+  
+  .client__logo img {
+    width: 100%;
+    filter: brightness(0) invert(1); /* Cambia el logo a blanco */
+    transition: filter 0.3s;
+  }
+  
+  .client__logo img:hover {
+    filter: none; /* Muestra el logo en su color original al pasar el cursor */
+  }
+  
