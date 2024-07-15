@@ -17,7 +17,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: '/public/img/captura.png',
+		imgSrc: '/img/captura.png',
 		title: 'Sistema POS',
 		skills: ['React', 'CSS'],
 		descripcion:
