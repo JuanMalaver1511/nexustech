@@ -130,12 +130,13 @@ body {
   }
   
   .back-link a {
-    color: #ffffff;
+    color: #005fd5;
     text-decoration: none;
     font-size: 1.2rem;
   }
   
   .back-link a:hover {
+    color: #1caa8b;
     text-decoration: underline;
   }
   .footer {
