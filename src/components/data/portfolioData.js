@@ -22,8 +22,8 @@ export const portafolioData = [
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Potencia tus ventas con nuestro sistema POS. Simplifica tu punto de venta y maximiza tus ganancias. !Tu negocio despegará hacia el éxito!',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'https://weboriginnexustech.vercel.app/',
+		repoURL: '/POS/precios_pos',
 		anim: 'fade-right',
 	},
 	{
