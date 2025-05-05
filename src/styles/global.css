@@ -1,13 +1,13 @@
 :root {
 	/* color  */
-	--primary-0: #0d1527;
+	--primary-0: #1F2937 ; /*Cambiar esto*/
 	--primary-10: #2b1560;
-	--primary-20: #228877;
+	--primary-20: #3B82F6;  /*cambiar esto*/
 	--primary-30: #5529ae;
 	--primary-40: #32cfad;
 	--primary-50: #7644e3;
-	--primary-60: #228877;
-	--primary-70: #a491f4;
+	--primary-60: #3B82F6;
+	--primary-70: #816565;
 	--primary-80: #c2b9f9;
 	--primary-90: #dcd8fc;
 	--primary-95: #edeafd;
@@ -63,7 +63,7 @@
 
 	--text-gradient: radial-gradient(
 		circle farthest-corner at center center,
-		#228877 0%,
+		#3B82F6 0%,
 		#ffffff 100%
 	);
 }

@@ -14,13 +14,13 @@
 	width: 100%;
 	max-width: var(--max-width);
 	justify-content: space-between;
-	background: #00000033;
+	background: #00000000;
 	backdrop-filter: blur(20px);
 	padding: 1rem 2rem;
 	border-radius: 14px;
 	height: auto;
 	min-height: 7rem;
-	border: 0.03px solid #7c39fd47;
+	border: 0.03px solid #e4e4e447;
 	flex-wrap: wrap;
 }
 

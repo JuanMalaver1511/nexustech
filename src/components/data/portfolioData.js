@@ -19,7 +19,7 @@ export const portafolioData = [
 	{
 		imgSrc: '/img/captura.png',
 		title: 'Sistema POS',
-		skills: ['React', 'CSS'],
+		skills: ['JavaScript', 'CSS'],
 		descripcion:
 			'Potencia tus ventas con nuestro sistema POS. Simplifica tu punto de venta y maximiza tus ganancias. !Tu negocio despegará hacia el éxito!',
 		demoURL: 'https://weboriginnexustech.vercel.app/',
@@ -27,13 +27,13 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/299377097/original/7eb7dcebe244fcf5ad75d92b0969fc116946bd57/create-professional-amd-responsive-wordpress-website.jpg',
-		title: 'E-commerce',
-		skills: ['JavaScript', 'Bootstrap'],
+		imgSrc: '/img/EduGuia.png',
+		title: 'EduGuia-AI',
+		skills: ['React', 'Bootstrap'],
 		descripcion:
 			' Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
+		demoURL: 'https://eduguia-ai.onrender.com/',
+		repoURL: 'https://eduguia-ai.onrender.com/',
 		anim: 'fade-up',
 		averageBrightness: 0.1,
 	},
