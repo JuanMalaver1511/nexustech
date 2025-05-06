@@ -28,9 +28,9 @@
 	--secondary-100: #ffffff;
 
 	/* colores de las propiedades */
-	--surface: #4F4360;
+	--surface: #436055;
 	--surface-variant: #e0d8e7;
-	--surface-dim: #998da9;
+	--surface-dim: #94a98d;
 	--surface-bridge: #d6cdee;
 
 	--primary: var(--primary-60);

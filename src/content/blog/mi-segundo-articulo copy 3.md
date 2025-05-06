@@ -2,10 +2,10 @@
 title: "Importancia de Tener una Página Web en tu Negocio"
 description: "Descubre por qué una presencia web es crucial para el éxito de tu negocio."
 pubDate: 'Apr 30 2024'
-heroImage: "/img/monachina.jpg"
+heroImage: "/img/PaginaWeb.jpg"
 ---
 
-![javascript image](/img/monachina.jpg)
+![javascript image](/img/PaginaWeb.jpg)
 
 ##
 

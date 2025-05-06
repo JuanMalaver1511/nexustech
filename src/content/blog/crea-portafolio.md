@@ -2,13 +2,13 @@
 title: "JavaScript:Crea tu portafolio con astro"
 description: "Funciones y Comprendiendo Variables, soy el post más nuevo"
 pubDate: 'Apr 26 2024'
-heroImage: "../img/paisaje.jpg"
+heroImage: "../img/Code.jpg"
 ---
 
 
 
 
-![javascript image](/img/monachina.jpg)
+![javascript image](/img/Code.jpg)
 
 En esta segunda entrega de nuestra guía práctica de JavaScript, nos sumergiremos en el fascinante mundo de las funciones y exploraremos las sutilezas entre `var`, `let` y `const`. Prepárate para desentrañar estos conceptos cruciales en tu viaje por el desarrollo web.
 
@@ -73,7 +73,7 @@ Las funciones de flecha (`arrow functions`) son una forma más concisa de escrib
 
 ### Variables: var, let y const
 
-![javascript image](/img/monachina.jpg)
+![javascript image](/img/Code.jpg)
 
 ### `var`
 
