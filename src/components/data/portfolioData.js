@@ -29,7 +29,7 @@ export const portafolioData = [
 	{
 		imgSrc: '/img/EduGuia.png',
 		title: 'EduGuia-AI',
-		skills: ['React', 'Bootstrap'],
+		skills: ['React', 'Bootstrap', 'SpringBoot'],
 		descripcion:
 			' Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
 		demoURL: 'https://eduguia-ai.onrender.com/',
@@ -88,6 +88,7 @@ const skillIcons = {
 	StyledComponents: 'skill-icons:styledcomponents',
 	Bootstrap: 'skill-icons:bootstrap',
 	Tailwind: 'skill-icons:tailwindcss-dark',
+	SpringBoot: 'skill-icons:SpringBoot',
 };
 
 /**
