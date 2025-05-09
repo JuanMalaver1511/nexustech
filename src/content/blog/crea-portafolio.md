@@ -1,7 +1,6 @@
 ---
 title: "JavaScript:Crea tu portafolio con react"
 description: "Funciones y Comprendiendo Variables, soy el post más nuevo"
-pubDate: 'May 05 2025'
 heroImage: "../img/Code.jpg"
 ---
 
