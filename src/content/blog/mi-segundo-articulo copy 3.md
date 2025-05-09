@@ -7,7 +7,7 @@ heroImage: "/img/PaginaWeb.jpg"
 
 ![javascript image](/img/PaginaWeb.jpg)
 
-##
+## ¿Por qué elegir desarrollo de software a la medida para tu empresa?
 
 En un mundo donde la tecnología avanza rápidamente, cada empresa enfrenta desafíos únicos. Las soluciones genéricas muchas veces no cubren necesidades específicas. Aquí es donde entra el **desarrollo de software a la medida**: una alternativa pensada para **adaptarse a ti, y no al revés**.
 
