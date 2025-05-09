@@ -88,7 +88,7 @@ const skillIcons = {
 	StyledComponents: 'skill-icons:styledcomponents',
 	Bootstrap: 'skill-icons:bootstrap',
 	Tailwind: 'skill-icons:tailwindcss-dark',
-	SpringBoot: 'skill-icons:SpringBoot',
+	SpringBoot: 'logos:spring-icon',
 };
 
 /**
