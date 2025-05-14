@@ -1,7 +1,7 @@
 ---
 title: "Cómo la inteligencia artificial está redefiniendo la productividad en el trabajo moderno"
 description: "La IA está transformando el entorno laboral. Desde asistentes inteligentes hasta generación automática de contenido, analizamos el impacto real en la productividad y los retos que conlleva."
-pubDate: 2025-05-13
+heroImage: "/img/ia.jpg"
 ---
 
 ![javascript image](/img/ia.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Edge Computing: cómo la computación en el borde está transformando la infraestructura tecnológica"
 description: "Descubre cómo el procesamiento de datos en el borde (Edge Computing) está revolucionando el IoT, el análisis en tiempo real y la forma en que interactuamos con dispositivos conectados."
-pubDate: 2025-05-13
+heroImage: "/img/edge-computing.jpg"
 ---
 
 ![javascript image](/img/edge-computing.jpg)

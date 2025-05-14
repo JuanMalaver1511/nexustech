@@ -1,7 +1,7 @@
 ---
 title: "Computación cuántica: qué es, cómo funciona y por qué cambiará el futuro de la tecnología"
 description: "La computación cuántica promete revolucionar la forma en que resolvemos problemas complejos. Exploramos sus fundamentos, aplicaciones actuales y desafíos para el desarrollo de esta nueva frontera tecnológica."
-pubDate: 2025-05-13
+heroImage: "/img/computacion-cuantica.webp"
 ---
 
 ![javascript image](/img/computacion-cuantica.webp)

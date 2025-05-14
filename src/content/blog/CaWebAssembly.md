@@ -1,7 +1,7 @@
 ---
 title: "WebAssembly: cómo la web está alcanzando el rendimiento de las aplicaciones nativas"
 description: "WebAssembly permite ejecutar código de alto rendimiento directamente en el navegador. Analizamos cómo funciona, sus beneficios, casos de uso reales y por qué puede cambiar el futuro del desarrollo web."
-pubDate: 2025-05-13
+heroImage: "/img/webassembly.webp"
 ---
 
 ![javascript image](/img/webassembly.webp)
