@@ -1,9 +1,26 @@
+.clients__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 3rem; /* Espacio adicional en la parte inferior */
+}
+
+.clients__carousel {
+  display: flex;
+  justify-content: center; /* Centra el carrusel horizontalmente */
+  flex-wrap: wrap;         /* Permite que se acomoden en varias filas en pantallas pequeñas */
+  gap: 2rem;
+  padding: 1rem 0;
+  position: relative;
+}
+
 .client__logo {
   cursor: pointer;
   flex: 0 0 auto;
-  width: 150px;       /* tamaño base */
-  height: 80px;       /* altura fija para uniformidad */
-  display: flex;      
+  width: 150px;       /* ancho uniforme */
+  height: 80px;       /* alto uniforme */
+  display: flex;
   align-items: center;
   justify-content: center;
   transition: transform 0.3s;
@@ -12,22 +29,27 @@
 .client__logo img {
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;   /* ajusta sin deformar */
-  filter: brightness(0) invert(1);
+  object-fit: contain;  /* Ajusta sin deformar */
+  filter: brightness(0) invert(1); /* Cambia el logo a blanco */
   transition: filter 0.3s;
 }
 
-/* Responsivo */
+.client__logo img:hover {
+  filter: none; /* Muestra el logo en su color original al pasar el cursor */
+}
+
+/* Responsivo: tablets */
 @media (max-width: 768px) {
   .client__logo {
-    width: 100px;
-    height: 60px;
+    width: 120px;
+    height: 65px;
   }
 }
 
+/* Responsivo: móviles */
 @media (max-width: 480px) {
   .client__logo {
-    width: 80px;
+    width: 90px;
     height: 50px;
   }
 }
